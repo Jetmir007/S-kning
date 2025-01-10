@@ -31,7 +31,7 @@ List<Person> personlista =
 
 Console.WriteLine("Ange personnummret");
 int nyckel = Convert.ToInt32(Console.ReadLine());
-int index = BinSearch(personlista,0, 8, nyckel);
+int index = BinSearch(personlista, 0, personlista.Count - 1, nyckel);
 if(index != -1){
     Console.WriteLine(personlista[index].Namn);
 }
