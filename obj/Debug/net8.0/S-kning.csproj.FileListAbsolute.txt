@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\S-kning\bin\Debug\net8.0\S-kning.exe
+C:\Users\Admin\Documents\GitHub\S-kning\bin\Debug\net8.0\S-kning.deps.json
+C:\Users\Admin\Documents\GitHub\S-kning\bin\Debug\net8.0\S-kning.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\S-kning\bin\Debug\net8.0\S-kning.dll
+C:\Users\Admin\Documents\GitHub\S-kning\bin\Debug\net8.0\S-kning.pdb
+C:\Users\Admin\Documents\GitHub\S-kning\obj\Debug\net8.0\S-kning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\S-kning\obj\Debug\net8.0\S-kning.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\S-kning\obj\Debug\net8.0\S-kning.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\S-kning\obj\Debug\net8.0\S-kning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\S-kning\obj\Debug\net8.0\S-kning.sourcelink.json
+C:\Users\Admin\Documents\GitHub\S-kning\obj\Debug\net8.0\S-kning.dll
+C:\Users\Admin\Documents\GitHub\S-kning\obj\Debug\net8.0\refint\S-kning.dll
+C:\Users\Admin\Documents\GitHub\S-kning\obj\Debug\net8.0\S-kning.pdb
+C:\Users\Admin\Documents\GitHub\S-kning\obj\Debug\net8.0\S-kning.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\S-kning\obj\Debug\net8.0\ref\S-kning.dll
